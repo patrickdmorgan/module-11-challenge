@@ -1,8 +1,8 @@
 const fs = require('fs')
 const express = require('express')
 const { v4: uuidv4 } = require('uuid');
-const app = express()
-const port = 3000
+const app = express();
+const port = process.env.PORT || 3001;
 
 app.use(express.json());
 app.use(express.static('public'));
