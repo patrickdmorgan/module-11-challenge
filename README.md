@@ -40,4 +40,5 @@ Express boilerplate: https://expressjs.com/en/starter/hello-world.html
 
 ## Deployed app
 
-[Title](https://npte-taker-patrick-ac2d205f5d90.herokuapp.com/)
+[Title]
+(https://npte-taker-patrick-ac2d205f5d90.herokuapp.com/)
